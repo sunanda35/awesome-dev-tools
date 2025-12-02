@@ -78,6 +78,8 @@ We encourage contributions from the community, so if you have a favorite develop
 
   - [ToolHover](https://toolhover.com) - Free online developer utilities including JSON formatter & validator, password generator, hash
   generator, Base64 encoder/decoder, text counter & converter, and QR code generator.
+  - [DevUtils](https://devutils.com): An offline toolbox for developers with a collection of utilities like JSON formatter, JWT decoder, regex tester and many more.
+
 
 #### Integrated Development Environments (IDEs)
 
